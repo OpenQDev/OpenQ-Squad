@@ -2,7 +2,7 @@
 
 ![garden](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1200px-The_Garden_of_earthly_delights.jpg)
 
-A new ground floor for finance and government has arrived.
+A new ground floor for finance and government has arrived
 
 Bits and bytes do not care about flesh and blood. We create them, and they work for us. Whether we use them to build a world that works for us, or a world that we work for, will be decided in the coming decades.
 
