@@ -26,23 +26,40 @@ localhost:berlin is hosted by OpenQ, a Github and crypto integrated marketplace 
 
 Food and drinks will be included. While waiting have fun with this: (hint thumbnail contains a secret)
 
-
 ## 🗓 Agenda
 
-- Andrew O'Brien, Chief Builder @ OpenQ 2:30 - 3:00
+- Andrew O'Brien, Co-Founder @ OpenQ 2:45 - 3:00
+
+Tech stacks are amoral yadda yadda
+
+- Riccardo, Co-Founder @ OpenQ 3:00 - 3:15
+
+Share the logistics, who's talking when, team formation, when's dinner, etc.
+
+- Workshop 1 - 3:15 - 4:00
+
 description
 
-- Workshop 1 - 3:00 - 4:00
+- Workshop 2 - 4:00 - 4:30
+
 description
 
-- Workshop 2 - 4:30
+- Team Formation - 4:30 - 5:00
+
 description
 
-- Team Formation - 5:00 - 6:00
+- Working working - 5:00 - 7:00
+
 description
 
-- Break - 7:00 - 8:00
+- Break/Dinner - 7:00 - 8:00
+
 description
 
 - Presentations - 8:00 - 9:00
+
+description
+
+- Chilling - 9:00 - 10:00
+
 description
